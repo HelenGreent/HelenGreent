@@ -1,5 +1,5 @@
 # Hi there and welcome to my GitHub page👋
-## My name is Olena and I’m beginner *Front-end developer* from Lviv. 
+### My name is Olena and I’m *Front-end developer* from Lviv. 
 ### Languages and Technologies :
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-black?logo=html5&logoColor=E34F26&style=flat-square" /> 
